@@ -1,2 +1,6 @@
+#!/bin/bash
+
 # thierri.sh
-inventory.sh
+
+
+echo "thanks"
