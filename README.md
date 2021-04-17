@@ -1,0 +1,2 @@
+# thierri.sh
+inventory.sh
